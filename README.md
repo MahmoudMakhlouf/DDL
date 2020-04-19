@@ -1,7 +1,7 @@
 # DDL
 doubly linked list for data structure
 
-##Functions
+## Functions
 #### create node
 #### insert node at first
 #### insert node at last
