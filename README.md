@@ -1,4 +1,4 @@
-# DDL
+# DLL
 doubly linked list for data structure
 
 ## Functions
